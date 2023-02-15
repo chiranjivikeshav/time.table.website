@@ -1,5 +1,5 @@
 # time.table.website
-I developed this website using html
+I developed this website using Html
 <!DOCTYPE html>
 <html lang="en">
 <head>
